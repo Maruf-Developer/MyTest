@@ -1,5 +1,8 @@
 {
   "square":[
+  
+    "https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/a.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/b.png",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/sqr/dp-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-3.webp",
