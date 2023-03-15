@@ -17,6 +17,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-28.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-29.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-30.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-34.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-32.webp",
     
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-5.webp",
@@ -38,8 +39,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-12.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-13.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-17.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-20.webp",
     
