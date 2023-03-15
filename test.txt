@@ -57,7 +57,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-24.webp"
     ],
     
-   "square":[
+   "square2":[
  
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-25.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-26.webp"
