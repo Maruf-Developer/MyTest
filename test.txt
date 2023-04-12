@@ -9,12 +9,14 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-6.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-7.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-21.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-22.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-9.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-10.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-11.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-12.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-21.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-22.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-27.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-13.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-19.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-23.webp",
@@ -22,9 +24,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-25.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-26.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-17.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-20.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-27.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-13.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-20.webp"
      
     ],
     
