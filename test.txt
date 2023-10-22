@@ -1,6 +1,8 @@
 {
  "square":[
-"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/bijoynew/sq.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/bijoynew/sq.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/bijoynew/sq1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/bijoynew/sq2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/foundtion/squr1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/foundtion/squr2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/foundtion/squr3.webp",
