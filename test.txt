@@ -86,7 +86,7 @@
     
   "landscape":[
    
-        "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(1).webp",
+       "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(1).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(2).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(3).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(4).webp",
@@ -101,11 +101,8 @@
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(13).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(14).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(15).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(16).webp"
-     
-    ],
-  "landscape1":[
-   
+	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(16).webp",
+
         "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(1).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(2).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(3).webp",
@@ -127,10 +124,7 @@
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(19).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(20).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(21).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(22).webp"
-     
-    ],
-  "landscape2":[
+	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(22).webp",
    
         "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(1).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(2).webp",
