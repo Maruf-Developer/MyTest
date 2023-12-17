@@ -1,152 +1,58 @@
 {
   "square":[
 
-       "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(1).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(2).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(3).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(4).webp",
-        "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(1).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(2).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(5).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(6).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(7).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(8).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(9).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(10).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(11).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(12).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(13).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(14).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(21).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(22).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(15).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(16).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(17).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(18).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(19).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(20).webp"
-	
-
-    ],
-	
-"square1":[
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(5).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(6).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(7).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(8).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(9).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(10).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(11).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(12).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(13).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(14).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(15).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(16).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(17).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(18).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(19).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(20).webp"
-	
-
-    ],
-
-"square2":[
-        "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(1).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(2).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(3).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(4).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(5).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(6).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(7).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(8).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(9).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(10).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(11).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(12).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(13).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(14).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(15).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(16).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(17).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(18).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(19).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(20).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(21).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr2/squr2%20(22).webp"
-	
-
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_16.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/squr3/profile_20.webp"
+      
     ],
     
   "portrait":[
+
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/port4/portrait_10.webp"
+   
     ],
     
     
   "landscape":[
-   
-        "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(1).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(2).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(3).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(4).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(5).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(6).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(7).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(8).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(9).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(10).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(11).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(12).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(13).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(14).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(15).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(16).webp"
-     
-    ],
-  "landscape1":[
-   
-        "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(1).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(2).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(3).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(4).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(5).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(6).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(7).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(8).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(9).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(10).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(11).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(12).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(13).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(14).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(15).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(16).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(17).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(18).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(19).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(20).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(21).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land1/land1%20(22).webp"
-     
-    ],
-  "landscape2":[
-   
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(1).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(2).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(3).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(4).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(5).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(6).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(7).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(8).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(9).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(10).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(11).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(12).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(13).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(14).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(15).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(16).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(17).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land2/land2%20(18).webp"
+    
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_10.webp"
+      
      
     ]
     
