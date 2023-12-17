@@ -41,17 +41,35 @@
     
     
   "landscape":[
-    
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_1.webp",
+       "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (1).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_10.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (2).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (4).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (5).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (6).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (7).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (8).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (9).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (10).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (11).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (12).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (13).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (14).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (15).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (16).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (17).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land1/fram (18).webp",
+
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_6.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_3.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_4.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_5.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_6.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_7.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_8.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_9.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_10.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_5.webp"
       
      
     ]
