@@ -189,7 +189,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_4.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_5.webp"
-       ]
+       ],
 
    "landscape2":[
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land/fram (1).webp",
