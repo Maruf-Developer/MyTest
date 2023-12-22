@@ -1,5 +1,10 @@
 {
    "square":[
+    "https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/repub%20(1).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/repub%20(2).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/repub%20(3).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/repub%20(4).png",
+    
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr/fram (1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr/fram (2).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr/fram (3).webp",
