@@ -26,57 +26,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr/fram (19).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr/fram (20).webp"
        ],
-       
-  
-   "square1":[
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (2).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (3).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (4).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (5).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (6).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (7).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (8).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (9).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (10).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (11).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (12).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (13).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (14).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (15).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (16).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (17).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (18).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (19).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr1/fram (20).webp"
-       ],
-
- "square2":[
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (2).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (3).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (4).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (5).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (6).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (7).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (8).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (9).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (10).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (11).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (12).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (13).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (14).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (15).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (16).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (17).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (18).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (19).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (20).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (21).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/squr2/fram (22).webp"
-       ],
-       
-  
+    
    "portrait":[
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port/fram (1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port/fram (2).webp",
@@ -106,59 +56,6 @@
        ],
        
   
-   "portrait1":[
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (2).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (3).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (4).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (5).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (6).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (7).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (8).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (9).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (10).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (11).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (12).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (13).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port1/fram (14).webp"
-       ],
-
- "portrait2":[
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (2).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (3).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (4).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (5).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (6).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (7).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (8).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (9).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (10).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (11).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (12).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (13).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port2/fram (14).webp"
-       ],
-       
-  
-   "portrait3":[
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (2).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (3).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (4).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (5).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (6).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (7).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (8).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (9).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (10).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (11).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (12).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (13).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (14).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/port3/fram (15).webp" 
-       ],
-
 
    "landscape":[
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/elctoin/lnd/a1.webp", 
@@ -201,5 +98,5 @@
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-9.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land3/fram-14.webp"
-       ],
+       ]
 }
