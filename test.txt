@@ -1,5 +1,10 @@
 {
   "square":[
+"https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/xc%20(1).png",
+"https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/xc%20(2).png",
+"https://raw.githubusercontent.com/Maruf-Developer/MyTest/main/oo/xc%20(3).png",
+
+
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/elctoin/sq/a1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/elctoin/sq/a2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/elctoin/sq/a3.webp",
