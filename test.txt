@@ -1,5 +1,5 @@
 { 
-"portrait1":[ 
+"portrait":[ 
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/3.webp",
@@ -23,7 +23,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/21.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/22.webp"
 ],
-"landscape1":[ 
+"landscape":[ 
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/3.webp",
@@ -48,7 +48,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/22.webp"
 ],
 
-"square2":[  
+"square":[  
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AutuumPhtFrms/squr/1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AutuumPhtFrms/squr/2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AutuumPhtFrms/squr/3.webp",
