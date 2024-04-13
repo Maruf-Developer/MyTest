@@ -28,7 +28,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-27.webp",
 
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1431/squr%20(1).webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1431/squr%20(2).webp
+ "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1431/squr%20(2).webp"
   
   ],
     
