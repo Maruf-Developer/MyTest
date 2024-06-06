@@ -1,4 +1,4 @@
-z{
+{
   "square":[
   
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-21.webp",
@@ -293,6 +293,14 @@ z{
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PMLNpartyPhtoFrme/land/fram-16.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PMLNpartyPhtoFrme/land/fram-17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PMLNpartyPhtoFrme/land/fram-18.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PMLNpartyPhtoFrme/land/fram-19.webp"
 
 
