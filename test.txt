@@ -44,7 +44,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BatttarflaiPhtFrms/squr/17.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BatttarflaiPhtFrms/squr/18.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BatttarflaiPhtFrms/squr/19.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BatttarflaiPhtFrms/squr/20.webp"
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BatttarflaiPhtFrms/squr/20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/GiltttarPhtFrms/squr/1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/GiltttarPhtFrms/squr/2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/GiltttarPhtFrms/squr/3.webp",
