@@ -97,25 +97,31 @@
     ],
     
   "landscape":[
-  
+
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-23.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-24.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-12.webp",
+
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-3.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-4.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-5.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram24.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram25.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-7.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-8.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-10.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-11.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram22.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram21.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-13.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-14.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-15.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-16.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-17.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-19.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-18.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram23.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-19.webp"
   
     ],
   "landscape1":[
@@ -147,7 +153,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-23.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-24.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-1.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-12.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-3.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-4.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-5.webp",
