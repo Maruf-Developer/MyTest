@@ -1,5 +1,26 @@
 {
  "square":[
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram10.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram11.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram12.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram13.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram14.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram15.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram16.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram17.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram18.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/squr/fram19.webp",
+  
+
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr/frame-27.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr/frame-28.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr/frame-29.webp",
@@ -99,7 +120,14 @@
     ],
     
   "landscape":[
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram21.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram22.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram23.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram24.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land/fram25.webp",
   
+
+
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land/fram-3.webp",
