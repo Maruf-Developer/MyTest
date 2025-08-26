@@ -4,12 +4,12 @@
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr3.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr4.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr5.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr8.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr17.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr18.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr7.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr5.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr9.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr10.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr11.webp",
@@ -63,7 +63,7 @@
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/port5.webp"
     ],
         
- "landscape":[  
+ "landscape":[   
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land1.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land2.webp",
