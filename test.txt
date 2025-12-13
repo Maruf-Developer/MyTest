@@ -33,16 +33,16 @@
     ],
     
   "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(1).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(2).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(3).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(4).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f5.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(2).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(3).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(4).webp",
 
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/tarek1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/tarek2.webp",
